@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 13 Jul 2022 17:21:47 GMT
+// Generated on Wed, 13 Jul 2022 17:43:21 GMT
 
 
 import UIKit
@@ -24,6 +24,6 @@ internal struct StyleDictionaryStruct {
     internal static let sizeFontSmall = CGFloat(12.00) /* the small size of the font */
     internal static let spacing1100 = 40px
     internal static let spacing400 = 12px
-    internal static let spacing500 = 50px
+    internal static let spacing500 = 20px
     internal static let spacing600 = 20px
 }
