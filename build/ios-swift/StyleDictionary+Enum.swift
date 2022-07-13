@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 13 Jul 2022 15:35:46 GMT
+// Generated on Wed, 13 Jul 2022 16:34:29 GMT
 
 
 import UIKit
@@ -24,6 +24,6 @@ public enum StyleDictionaryEnum {
     public static let sizeFontSmall = CGFloat(12.00) /* the small size of the font */
     public static let spacing1100 = 40px
     public static let spacing400 = 12px
-    public static let spacing500 = 50px
+    public static let spacing500 = 16px
     public static let spacing600 = 20px
 }

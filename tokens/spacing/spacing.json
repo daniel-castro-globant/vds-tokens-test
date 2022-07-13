@@ -5,7 +5,7 @@
             "type": "spacing"
         },
         "500": {
-            "value": "50px",
+            "value": "16px",
             "type": "spacing"
         },
         "600": {
