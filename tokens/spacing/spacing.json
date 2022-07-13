@@ -1,0 +1,20 @@
+{
+    "spacing": {
+        "400": {
+            "value": "12px",
+            "type": "spacing"
+        },
+        "500": {
+            "value": "16px",
+            "type": "spacing"
+        },
+        "600": {
+            "value": "20px",
+            "type": "spacing"
+        },
+        "1100": {
+            "value": "40px",
+            "type": "spacing"
+        }
+    }
+}
