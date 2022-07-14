@@ -2,7 +2,7 @@
   "color": {
     "Color": {
       "snowwhite": {
-        "value": "#ffffff",
+        "value": "red",
         "type": "color"
       },
       "singularity": {

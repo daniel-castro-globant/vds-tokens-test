@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Thu, 14 Jul 2022 18:06:18 GMT
+// Generated on Thu, 14 Jul 2022 18:18:03 GMT
 
 
 
@@ -22,7 +22,7 @@ object StyleDictionaryColor {
   val colorColorPGradient1 = Color(0xff000000)
   val colorColorPGradient2 = Color(0xff000000)
   val colorColorSingularity = Color(0xff1d1d1d)
-  val colorColorSnowwhite = Color(0xffffffff)
+  val colorColorSnowwhite = Color(0xffff0000)
   val colorFontBase = Color(0xffff0000)
   val colorFontSecondary = Color(0xff00ff00)
   val colorFontTertiary = Color(0xffcccccc)
