@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 14 Jul 2022 18:18:03 GMT
+// Generated on Thu, 14 Jul 2022 18:23:09 GMT
 
 
 import UIKit
@@ -20,7 +20,7 @@ public enum StyleDictionaryColor {
     public static let colorPGradient1 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorPGradient2 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorSingularity = UIColor(red: 0.114, green: 0.114, blue: 0.114, alpha: 1)
-    public static let colorSnowwhite = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorSnowwhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let fontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let fontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     public static let fontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)

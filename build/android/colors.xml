@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 14 Jul 2022 18:18:02 GMT
+  Generated on Thu, 14 Jul 2022 18:23:09 GMT
 -->
 <resources>
   <color name="color_base_gray_light">#ffcccccc</color>
@@ -10,7 +10,7 @@
   <color name="color_base_gray_dark">#ff111111</color>
   <color name="color_base_red">#ffff0000</color>
   <color name="color_base_green">#ff00ff00</color>
-  <color name="color_color_snowwhite">#ffff0000</color>
+  <color name="color_color_snowwhite">#ffffffff</color>
   <color name="color_color_singularity">#ff1d1d1d</color>
   <color name="color_color_celestial_sphere">#ff666666</color>
   <color name="color_color_p_gradient_1">#ff000000</color>
