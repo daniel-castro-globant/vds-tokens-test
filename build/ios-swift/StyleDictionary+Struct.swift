@@ -4,13 +4,20 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 18 Jul 2022 21:32:55 GMT
+// Generated on Mon, 18 Jul 2022 21:35:29 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
-    internal static let vdsButtonLarge = [object Object]
+    internal static let vdsButtonLargeFontFamily = Proxima Nova SemiBold
+    internal static let vdsButtonLargeFontSize = 30px
+    internal static let vdsButtonLargeFontWeight = Semibold
+    internal static let vdsButtonLargeLetterSpacing = 0.46
+    internal static let vdsButtonLargeLineHeight = 16px
+    internal static let vdsButtonLargeParagraphSpacing = 0
+    internal static let vdsButtonLargeTextCase = uppercase
+    internal static let vdsButtonLargeTextDecoration = none
     internal static let vdsColorCelestialsphere = #666666
     internal static let vdsColorPDark = #0037c5
     internal static let vdsColorPGradient1 = linear-gradient(225deg, #0064ff 0%, #0037c5 100%)
