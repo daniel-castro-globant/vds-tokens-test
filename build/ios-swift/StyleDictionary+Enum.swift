@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 18 Jul 2022 20:45:16 GMT
+// Generated on Mon, 18 Jul 2022 20:59:14 GMT
 
 
 import UIKit
@@ -17,4 +17,8 @@ public enum StyleDictionaryEnum {
     public static let vdsColorPLight = #0064ff
     public static let vdsColorSingularity = #1d1d1d
     public static let vdsColorSnowwhite = #ffffff
+    public static let vdsSpacing1100 = 40px
+    public static let vdsSpacing400 = 12px
+    public static let vdsSpacing500 = 16px
+    public static let vdsSpacing600 = 20px
 }

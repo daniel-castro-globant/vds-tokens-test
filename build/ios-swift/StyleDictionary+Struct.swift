@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 18 Jul 2022 20:45:16 GMT
+// Generated on Mon, 18 Jul 2022 20:59:14 GMT
 
 
 import UIKit
@@ -17,4 +17,8 @@ internal struct StyleDictionaryStruct {
     internal static let vdsColorPLight = #0064ff
     internal static let vdsColorSingularity = #1d1d1d
     internal static let vdsColorSnowwhite = #ffffff
+    internal static let vdsSpacing1100 = 40px
+    internal static let vdsSpacing400 = 12px
+    internal static let vdsSpacing500 = 16px
+    internal static let vdsSpacing600 = 20px
 }
