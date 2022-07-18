@@ -78,6 +78,7 @@
     },
     "Components": {
       "Button Large": {
+        "type": "typography",
         "value": {
           "fontFamily": "$fontFamilies.proxima-nova-a",
           "fontWeight": "$fontWeights.proxima-nova-a-0",
@@ -87,8 +88,7 @@
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.uppercase",
           "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
+        }
       },
       "Button Medium": {
         "value": {
