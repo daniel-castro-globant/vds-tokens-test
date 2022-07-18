@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 18 Jul 2022 17:26:29 GMT
+// Generated on Mon, 18 Jul 2022 19:34:47 GMT
 
 
 import UIKit
@@ -32,4 +32,16 @@ internal struct StyleDictionaryStruct {
     internal static let spacing400 = 12px
     internal static let spacing500 = 20px
     internal static let spacing600 = 20px
+    internal static let typographyComponentsButtonLargeFontFamily = Proxima Nova A
+    internal static let typographyComponentsButtonLargeFontSize = 15
+    internal static let typographyComponentsButtonLargeFontWeight = Semibold
+    internal static let typographyFontFamiliesProximaNovaA = Proxima Nova A
+    internal static let typographyFontSize0 = 12
+    internal static let typographyFontSize1 = 14
+    internal static let typographyFontSize2 = 15
+    internal static let typographyFontWeightsProximaNovaA0 = Semibold
+    internal static let typographyLetterSpacing0 = 0.46
+    internal static let typographyLetterSpacing1 = 0.4
+    internal static let typographyLineHeights0 = 16
+    internal static let typographyParagraphSpacing0 = 0
 }

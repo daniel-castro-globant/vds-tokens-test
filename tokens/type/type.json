@@ -78,55 +78,10 @@
     },
     "Components": {
       "Button Large": {
-        "value": {
-          "fontFamily": "$fontFamilies.proxima-nova-a",
-          "fontWeight": "$fontWeights.proxima-nova-a-0",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.2",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.uppercase",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      },
-      "Button Medium": {
-        "value": {
-          "fontFamily": "$fontFamilies.proxima-nova-a",
-          "fontWeight": "$fontWeights.proxima-nova-a-0",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.1",
-          "letterSpacing": "$letterSpacing.1",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.uppercase",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      },
-      "Button Small": {
-        "value": {
-          "fontFamily": "$fontFamilies.proxima-nova-a",
-          "fontWeight": "$fontWeights.proxima-nova-a-0",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.0",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.uppercase",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      }
-    },
-    "textCase": {
-      "uppercase": {
-        "value": "uppercase",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
+        "type": "typography",
+        "fontFamily": {"value": "{typography.fontFamilies.proxima-nova-a.value}"},
+        "fontWeight": {"value": "{typography.fontWeights.proxima-nova-a-0.value}"},
+        "fontSize": {"value": "{typography.fontSize.2.value}"}
       }
     }
   },
