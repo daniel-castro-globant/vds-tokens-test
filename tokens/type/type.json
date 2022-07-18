@@ -1,87 +1,33 @@
 {
   "color": {
-    "Color": {
+    "color": {
       "snowwhite": {
-        "value": "#fff",
+        "value": "#ffffff",
         "type": "color"
       },
       "singularity": {
         "value": "#1d1d1d",
         "type": "color"
       },
-      "celestialSphere": {
+      "celestialsphere": {
         "value": "#666666",
         "type": "color"
       },
-      "p+gradient 1": {
+      "p+light": {
+        "value": "#0064ff",
+        "type": "color"
+      },
+      "p+dark": {
+        "value": "#0037c5",
+        "type": "color"
+      },
+      "p+gradient1": {
         "value": "linear-gradient(225deg, #0064ff 0%, #0037c5 100%)",
         "type": "color"
       },
       "p+gradient2": {
         "value": "linear-gradient(45deg, #0064ff 0%, #0037c5 100%)",
         "type": "color"
-      },
-      "p+dark": {
-        "value": "#0037c5",
-        "type": "color"
-      }
-    }
-  },
-  "typography": {
-    "fontFamilies": {
-      "proxima-nova-a": {
-        "value": "Proxima Nova A",
-        "type": "fontFamilies"
-      }
-    },
-    "lineHeights": {
-      "0": {
-        "value": "16",
-        "type": "lineHeights"
-      }
-    },
-    "fontWeights": {
-      "proxima-nova-a-0": {
-        "value": "Semibold",
-        "type": "fontWeights"
-      }
-    },
-    "fontSize": {
-      "0": {
-        "value": "12",
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": "14",
-        "type": "fontSizes"
-      },
-      "2": {
-        "value": "15",
-        "type": "fontSizes"
-      }
-    },
-    "letterSpacing": {
-      "0": {
-        "value": "0.46",
-        "type": "letterSpacing"
-      },
-      "1": {
-        "value": "0.4",
-        "type": "letterSpacing"
-      }
-    },
-    "paragraphSpacing": {
-      "0": {
-        "value": "0",
-        "type": "paragraphSpacing"
-      }
-    },
-    "Components": {
-      "Button Large": {
-        "type": "typography",
-        "fontFamily": {"value": "{typography.fontFamilies.proxima-nova-a.value}"},
-        "fontWeight": {"value": "{typography.fontWeights.proxima-nova-a-0.value}"},
-        "fontSize": {"value": "{typography.fontSize.2.value}"}
       }
     }
   },
