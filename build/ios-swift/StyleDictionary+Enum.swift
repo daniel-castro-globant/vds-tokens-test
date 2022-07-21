@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 21 Jul 2022 17:41:32 GMT
+// Generated on Thu, 21 Jul 2022 18:12:21 GMT
 
 
 import UIKit
@@ -18,7 +18,7 @@ public enum StyleDictionaryEnum {
     public static let vdsColorSingularity = #1d1d1d
     public static let vdsColorSnowwhite = #ffffff
     public static let vdsFontFamiliesProximaNovaSemibold = Proxima Nova SemiBold
-    public static let vdsSpacing1100 = 40px
+    public static let vdsSpacing1100 = 90px
     public static let vdsSpacing400 = 12px
     public static let vdsSpacing500 = 16px
     public static let vdsSpacing600 = 20px
