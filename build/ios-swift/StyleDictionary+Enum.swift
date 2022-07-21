@@ -4,13 +4,12 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 19 Jul 2022 17:48:16 GMT
+// Generated on Thu, 21 Jul 2022 17:32:08 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryEnum {
-    public static let vdsButtonLarge = [object Object]
     public static let vdsColorCelestialsphere = #666666
     public static let vdsColorPDark = #0037c5
     public static let vdsColorPGradient1 = linear-gradient(225deg, #0064ff 0%, #0037c5 100%)
@@ -19,15 +18,8 @@ public enum StyleDictionaryEnum {
     public static let vdsColorSingularity = #1d1d1d
     public static let vdsColorSnowwhite = #ffffff
     public static let vdsFontFamiliesProximaNovaSemibold = Proxima Nova SemiBold
-    public static let vdsFontSize0 = 15px
-    public static let vdsFontWeightsProximaNovaA0 = Semibold
-    public static let vdsLetterSpacing0 = 0.46
-    public static let vdsLineHeights0 = 16px
-    public static let vdsParagraphSpacing0 = 0
     public static let vdsSpacing1100 = 40px
     public static let vdsSpacing400 = 12px
     public static let vdsSpacing500 = 16px
     public static let vdsSpacing600 = 20px
-    public static let vdsTextCaseUppercase = uppercase
-    public static let vdsTextDecorationNone = none
 }
