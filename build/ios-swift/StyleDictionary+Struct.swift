@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 21 Jul 2022 17:32:08 GMT
+// Generated on Thu, 21 Jul 2022 17:34:55 GMT
 
 
 import UIKit
@@ -18,7 +18,7 @@ internal struct StyleDictionaryStruct {
     internal static let vdsColorSingularity = #1d1d1d
     internal static let vdsColorSnowwhite = #ffffff
     internal static let vdsFontFamiliesProximaNovaSemibold = Proxima Nova SemiBold
-    internal static let vdsSpacing1100 = 40px
+    internal static let vdsSpacing1100 = 90px
     internal static let vdsSpacing400 = 12px
     internal static let vdsSpacing500 = 16px
     internal static let vdsSpacing600 = 20px
